@@ -1,0 +1,21 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#exDad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  vertical-align: baseline;
+}
+
+#exSon {
+  width: 50%;
+  height: 25%;
+  padding-top: 75px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
